@@ -24,3 +24,46 @@ Example: To predict the prices of the houses “sell more or less than the
 recommended retail price.” Here, the houses will be classified whether 
 their prices fall into two discrete categories: above or below the said 
 price
+
+
+
+
+
+2)Unsupervised Learning:
+Unsupervised learning is a self-learning technique in which system has 
+to discover the features of the input population by its own and no prior 
+set of categories are used.
+Linear Regression is the example of Regression.
+This project aims at developing two supervised Machine Learning 
+Model- Linear Regression from scratch using Python and NumPy. The 
+developed code has various parameters. From the given models Bias Variance Trade-off and Prediction the best model can be selected from 
+the given data. This project enables the users to use the parameters and 
+select the best model in Linear Regression.
+
+
+
+
+
+
+
+
+
+
+
+
+I have selected this project because it is one of the main 
+aspects of life. It is important to know if your credit card gets 
+approved or not well before in time to plan life and other 
+situations. It is very challenging to predict this information by 
+humans as there are several dependent variables. My aim is to 
+Build a machine learning model which is used predict whether 
+an applicant is a good customer or a bad customer. So many 
+people apply for credit card, and we need to understand which 
+applicant is good enough to get the approval. A machine can 
+predict the approval if well trained. In this project several 
+methods, models, and parameters are tested to get highest 
+prediction accuracy. My aim is to Build a machine learning 
+model which is used predict whether an applicant is a good 
+customer or a bad customer. So many people apply for credit 
+card, and we need to understand which applicant is good 
+enough to get the approval
