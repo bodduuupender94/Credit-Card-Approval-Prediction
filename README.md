@@ -1,5 +1,9 @@
 # Credit-Card-Approval-Prediction
 
+
+
+![](credit-card-fraud.jpg)
+
 Machine Learning is an application that provides
 computers the ability to learn and improve from the experience without 
 being explicitly programmed. Machine Learning is classified into different 
