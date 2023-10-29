@@ -49,7 +49,7 @@ select the best model in Linear Regression.
 
 
 
-
+![](CC.PNG)
 
 
 
